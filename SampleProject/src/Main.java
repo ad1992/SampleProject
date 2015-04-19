@@ -7,6 +7,7 @@ public class Main {
 		System.out.print("Computer\tApplications\n");//tab and new line
 		System.out.println("\u0910\t\u0911");//unicode for hindi alphabet
 		System.out.println("\"hello I am learning Java\"");//double quotes
+		System.out.println("Testing first change in git");
 
 	}
 
