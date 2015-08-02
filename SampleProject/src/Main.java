@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("\"hello I am learning Java\"");//double quotes
 		System.out.println("Testing first change in git");
 		System.out.println("Commiting another change");
+		System.out.println("Lets see if it works now");
 
 	}
 
