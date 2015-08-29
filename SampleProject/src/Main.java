@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("Testing first change in git");
 		System.out.println("Commiting another change");
 		System.out.println("Lets see if it works now");
+		System.out.println("Now checking this repository from mac");
 
 	}
 
